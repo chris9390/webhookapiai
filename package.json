@@ -1,0 +1,15 @@
+{
+  "name": "apiaiwebhook",
+  "version": "0.0.1",
+  "description": "Webhook for ApiAi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ApiAi",
+    "Webhook"
+  ],
+  "author": "Filipe A. Barroso",
+  "license": "ISC"
+}
